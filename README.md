@@ -42,8 +42,6 @@ python app.py
 浏览器打开
 http://127.0.0.1:8888/
 
-![news feed](http://oiip5z89k.bkt.clouddn.com/WechatIMG8.jpeg)
-
 
 1. 用户
 
