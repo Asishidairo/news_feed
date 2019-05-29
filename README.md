@@ -66,13 +66,9 @@ http://127.0.0.1:8888/subscription
 cd utils/ ; python xlsx_reader.py
 ```
 
-![company list](http://oiip5z89k.bkt.clouddn.com/WechatIMG7.jpeg)
-![company profile](http://oiip5z89k.bkt.clouddn.com/WechatIMG9.jpeg)
-
 
 3. 抓取日志
 http://127.0.0.1:8888/log
-![crawler log](http://oiip5z89k.bkt.clouddn.com/WechatIMG6.jpeg)
 
 
 4. 信息流
@@ -85,7 +81,6 @@ http://127.0.0.1:8888/log
 ```
 cd utils/ ; python keywords_reader.py
 ```
-
 
 
 
@@ -104,6 +99,7 @@ python info_engine.py
 ```
 
 抓取频率, Celery参数可在config.py文件设置
+
 
 
 
